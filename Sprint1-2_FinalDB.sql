@@ -61,4 +61,3 @@ UNLOCK TABLES;
 
 -- Dump completed on 2024-04-30 11:20:13
 
-select * from task;
